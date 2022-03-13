@@ -66,7 +66,6 @@ At the end of the questionnaire, the sorting hat selects the house with a higher
         @onClose="onClose"/>
    </div>
 </template>
-```
 
 ## Example of data participants and self 'wizard' users
 ```
