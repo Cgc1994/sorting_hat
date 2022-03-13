@@ -35,7 +35,6 @@ At the end of the questionnaire, the sorting hat selects the house with a higher
 ```javascript
 
 ## Example of HTML template
-```
 <template>
   <div>
       <Chat v-if="visible"
